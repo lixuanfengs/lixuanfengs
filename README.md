@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-[个人博客1](https://cactusli.net)          [个人博客2](https://blog.199228.xyz/)
+<span style="word-spacing: 20px;"[个人博客1](https://cactusli.net)     [个人博客2](https://blog.199228.xyz/)</span>
 
 
 
